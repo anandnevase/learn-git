@@ -26,3 +26,17 @@ $ git commit -m "updated README"
 ```shell
 $ git push
 ```
+
+## Git Branch command
+1. Command to push remote git files
+```shell
+# show all branches
+$ git branch 
+
+# create feature branch from main branch
+$ git branch feature-1
+
+# Switch to feature-1 branch
+$ git checkout feature-1
+```
+
