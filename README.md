@@ -12,6 +12,15 @@ $ git clone https://github.com/anandnevase/learn-git
 $ git pull
 ```
 
+## Git Add & Commit command
+1. Command to pull remote git files
+```shell
+$ echo "Hello from GIT" > test.sh
+# Added some content in README.md
+$ git add README.md
+$ git commit -m "updated README"
+```
+
 ## Git Push command
 1. Command to push remote git files
 ```shell
