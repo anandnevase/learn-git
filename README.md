@@ -40,3 +40,9 @@ $ git branch feature-1
 $ git checkout feature-1
 ```
 
+## Git pull fromn main command
+Command to pull from remote main branch to feature-1
+```shell
+# show all branches
+$ git branch 
+```
