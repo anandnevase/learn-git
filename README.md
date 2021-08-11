@@ -5,3 +5,9 @@
 ```shell
 $ git clone https://github.com/anandnevase/learn-git
 ```
+
+## Git Pull command
+1. Command to pull remote git files
+```shell
+$ git pull
+```
