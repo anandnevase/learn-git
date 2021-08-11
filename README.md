@@ -40,5 +40,16 @@ $ git branch feature-1
 $ git checkout feature-1
 ```
 
+## Git pull from main command
+Command to pull from remote main branch to feature-1
+```shell
+# show all branches
+$ git branch 
 
+# pull changes from main branch
+$ git pull origin main
 
+# push changes from feature-1 branch
+$ git push origin feature-1
+
+```
