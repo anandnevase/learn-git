@@ -11,3 +11,9 @@ $ git clone https://github.com/anandnevase/learn-git
 ```shell
 $ git pull
 ```
+
+## Git Push command
+1. Command to push remote git files
+```shell
+$ git push
+```
